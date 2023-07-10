@@ -1,0 +1,20 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+h1{
+    font-size: 30px;
+    color: blueviolet;
+}
+h2 {
+    color: teal;
+    font-size: 20px;
+}
+.big{
+    font-size: 60px;
+}
+.big.uppercase{
+    color: darkslateblue;
+}
+span {
+    color: gold;
+}
